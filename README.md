@@ -11,7 +11,7 @@ I'm a web developer who loves create beautiful websites and interesting web apps
 
 ### My Languages and tools
 
-<div style="diplay:flex; gap:6px;">
+<div style="diplay:flex; gap:12px;">
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='javascript' width='32' height='32'/>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png' alt='typescript' width='32' height='32'/>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' alt='react' width='32' height='32'/>
@@ -35,10 +35,10 @@ I'm a web developer who loves create beautiful websites and interesting web apps
 ---
 
 ### Connect with me through:
-<div style="diplay:flex; gap:6px;">
+
 [Twitter][twitter]
 [Instagram][instagram]
-</div>
+
 
 
 [webiste]: https://alpesdream.vercel.app/
