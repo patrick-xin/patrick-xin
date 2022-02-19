@@ -9,9 +9,9 @@ I'm a web developer who loves create beautiful websites and interesting web apps
 
 ---
 
-### My Languages and tools
+### 🛠 My Languages and Tools
 
-<div style="diplay:flex; gap:12px;">
+<div style="display:flex; gap:10px; align-items:center">
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='javascript' width='32' height='32'/>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png' alt='typescript' width='32' height='32'/>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' alt='react' width='32' height='32'/>
@@ -22,6 +22,8 @@ I'm a web developer who loves create beautiful websites and interesting web apps
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/prisma.svg" alt='prisma'/>
 <img height="32" width="32" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt='git'/>
 </div>
+
+---
 
 ### 📕 Latest Blog Posts
 
@@ -36,8 +38,7 @@ I'm a web developer who loves create beautiful websites and interesting web apps
 
 ### Connect with me through:
 
-[Twitter][twitter]
-[Instagram][instagram]
+[Twitter][twitter] | [Instagram][instagram]
 
 
 
