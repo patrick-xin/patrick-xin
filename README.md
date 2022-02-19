@@ -11,7 +11,7 @@ I'm a web developer who loves create beautiful websites and interesting web apps
 
 ### 🛠 My Languages and Tools
 
-<div style="display:flex; gap:10px; align-items:center">
+<div style="display:flex; gap:16px; align-items:center">
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='javascript' width='32' height='32'/>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png' alt='typescript' width='32' height='32'/>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' alt='react' width='32' height='32'/>
