@@ -29,8 +29,7 @@ I'm a web developer who loves create beautiful websites and interesting web apps
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Build A Toast Component With React From Scratch](https://alpesdream.vercel.app/posts/build-a-toast-component-with-react-from-scrach)
-
+- [Build A Toast Component With React From Scratch](https://alpesdream.vercel.app/build-a-toast-component-with-react-from-scrach)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://alpesdream.vercel.app/posts)
