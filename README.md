@@ -1,20 +1,21 @@
-### Hi there! I'm Patrick. [alpesdream](https://alpesdream.vercel.app)
+### Hi there! 👋 I'm [Patrick Xin](https://alpesdream.vercel.app).
 
-## I'm a web developer who loves create beautiful websites and interesting web apps.
+I'm a web developer who loves create beautiful websites and interesting web apps.
 
-- I'm currently working on building a app called devseed.
-- I'm currently learning Web3 and Blockchain.
-- I'm looking to collaborate with other developers.
-- I'm looking to contribute more open source projects.
+- 🌱 I'm currently working on building a app called devseed.
+- 🧑‍💻 I'm currently learning Web3.
+- 🤝 I'm looking to collaborate with other developers.
+- 📌 I'm looking to contribute more open source projects.
 
 ### Connect with me through:
-
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[twitter].svg" />] [twitter]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[instagram].svg" />] [instagram]
 ---
 
 <br/>
 
 ### My Languages and tools
-
+[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png]
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
