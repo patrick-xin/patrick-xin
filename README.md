@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm [Patrick Xin](https://alpesdream.vercel.app).
+## Hi there! 👋 I'm [Patrick Xin](https://www.patrickxin.com).
 
 I'm a web developer who loves create beautiful websites and interesting web apps.
 
@@ -29,8 +29,8 @@ I'm a web developer who loves create beautiful websites and interesting web apps
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Infinite Scrolling With React Query And Prisma In Next.js](https://www.patrickxin.com/infinite-scrolling-with-react-query-and-prisma)
-- [Build A Toast Component With React From Scratch](https://www.patrickxin.com/build-a-toast-component-with-react-from-scrach)
+- [Infinite Scrolling With React Query And Prisma In Next.js](https://www.patrickxin.com/posts/infinite-scrolling-with-react-query-and-prisma)
+- [Build A Toast Component With React From Scratch](https://www.patrickxin.com/posts/build-a-toast-component-with-react-from-scrach)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.patrickxin.com/posts)
